@@ -16,6 +16,6 @@ do
                   echo '*終了します'
                   sleep 1  
 		  break;;
-        esac
+ esac
         echo
 done
